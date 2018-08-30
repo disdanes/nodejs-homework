@@ -162,7 +162,6 @@ data_points_checked : 395
                     done();
 
                 });
-            //);.catch((err) =>{
         });
 
     });
