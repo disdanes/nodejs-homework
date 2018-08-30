@@ -1,0 +1,14 @@
+*.scssc
+*.zip
+*.gzip
+*.tgz
+*.DS_Store
+*.swp
+
+# Node dependencies
+node_modules
+
+# npm-debug log
+npm-debug.log
+
+package-lock.json

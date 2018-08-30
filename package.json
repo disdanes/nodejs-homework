@@ -1,0 +1,16 @@
+{
+    "name": "reportparser",
+    "version": "0.0.1",
+    "description": "An aynchronous report parser that handles files in a key:value format",
+    "scripts": {
+        "test": "mocha --recursive \"./**/*.spec.js\""
+    },
+    "devDependencies": {
+        "chai": "^4.1.2",
+        "mocha": "^5.2.0",
+        "proxyquire": "^2.1.0"
+    },
+    "dependencies": {
+        "async": "^2.6.1"
+    }
+}
